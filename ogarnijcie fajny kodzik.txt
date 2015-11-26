@@ -1,5 +1,6 @@
 SNAKE WAR - I
 
+
 #include <graphics.h>
 #include <iostream.h>
 #include <conio.h>
@@ -635,3 +636,4 @@ KeyPressed = 1;
 }
 }
 }
+//fajnyyyy jest
